@@ -1,0 +1,23 @@
+{
+    "args": [
+        "-IC:/PROGRA~1/R/R-45~1.3/include",
+        "-DNDEBUG",
+        "-std=gnu2x",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc",
+        "-IC:/rtools45/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/14.3.0/include/c++",
+        "-IC:/rtools45/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/14.3.0/include/c++/x86_64-w64-mingw32.static.posix",
+        "-IC:/rtools45/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/14.3.0/include/c++/backward",
+        "-IC:/rtools45/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/14.3.0/include",
+        "-IC:/rtools45/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/14.3.0/../../../../include",
+        "-IC:/rtools45/x86_64-w64-mingw32.static.posix/bin/../lib/gcc/x86_64-w64-mingw32.static.posix/14.3.0/include-fixed",
+        "-include",
+        "C:/Users/math2/OneDrive/Documents/Blestbottom/.Rproj.user/F3A7450A/compilation-database/mingw64/c-definitions.h"
+    ],
+    "pch": "",
+    "is_cpp": false,
+    "hash": "1776333086",
+    "compiler": "16001004037050314525",
+    "rversion": "4.5.3",
+    "dbversion": 4
+}
